@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Yash Singhal, thanks for visiting my profile.</h1>
-<h3 align="center">MTech student in Computer Science from IIIT Hyderabad and completed BE from PES University</h3>
+<h3 align="center">MTech student in Computer Science from IIIT Hyderabad and completed BE from PES University, Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-singhal-wd&label=Profile%20views&color=0e75b6&style=flat" alt="yash-singhal-wd" /> </p>
 
