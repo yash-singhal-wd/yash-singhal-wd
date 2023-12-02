@@ -8,4 +8,4 @@
 
 <h3 align="left">My Leetcode stats:</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yash_iiit_h?theme=dark&font=Convergence&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yash_singhal_?theme=dark&font=Convergence&ext=heatmap)
