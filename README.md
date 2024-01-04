@@ -28,3 +28,8 @@
 - [x] [**Implemented K-Means from Scratch**]
 - [x] [**Implemented Naive Bayes from Scratch**]
 - [x] [**Implemented Decision Tree from Scratch**]
+
+<h3 align="left">Connect with me:</h3>
+
+<!-- https://www.linkedin.com/in/vaibhav-saxena-96611210b/ -->
+<!-- https://leetcode.com/yash_singhal_/ -->
