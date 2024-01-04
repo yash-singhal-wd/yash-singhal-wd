@@ -12,7 +12,7 @@
 
 ### Major Projects completed:
 - [x] [**P2P File Sharing System**](https://github.com/yash-singhal-wd/P2P_file)
-- [x] [**Relational Query Processing Engine**]
+- [x] [**Relational Query Processing Engine**](https://github.com/yash-singhal-wd/Query-processing_engine)
 - [x] [**Linux Based File Explorer**]
 - [x] [**B and B+ Tree**]
 - [x] [**Code Snippet Recommender**]
