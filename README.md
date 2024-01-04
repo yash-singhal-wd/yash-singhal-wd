@@ -9,3 +9,22 @@
 <h3 align="left">My Leetcode stats:</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yash_singhal_?theme=dark&font=Convergence&ext=heatmap)
+
+### 🌱 Major Projects completed:
+- [x] [**P2P File Sharing System**]
+- [x] [**Relational Query Processing Engine**]
+- [x] [**Linux Based File Explorer**]
+- [x] [**B and B+ Tree**]
+- [x] [**Code Snippet Recommender**]
+- [x] [**Big Int Library**]
+
+### 🌱 Mini Projects completed:
+- [x] [**Covid-19 stats using MERN Stack**]
+- [x] [**Inventory Manangement System using MERN and Redux**]
+- [x] [**Password **]
+
+### 🤖 AI Projects:
+- [x] [**Implemented KNN from Scratch**]
+- [x] [**Implemented K-Means from Scratch**]
+- [x] [**Implemented Naive Bayes from Scratch**]
+- [x] [**Implemented Decision Tree from Scratch**]
