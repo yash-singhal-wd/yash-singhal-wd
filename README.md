@@ -23,7 +23,7 @@
 - [x] [**Covid-19 stats using MERN Stack**]
 - [x] [**Inventory Manangement System using MERN and Redux**]
 - [x] [**Password Generator with Difficulty Modes**]
-- [x] [**Crow and Vulture Board Game**] 
+- [x] [**Crow and Vulture Board Game**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
 
 ### 🤖 AI Projects:
 - [x] [**Implemented KNN from Scratch**]
