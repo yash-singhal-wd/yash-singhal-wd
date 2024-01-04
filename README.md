@@ -17,8 +17,8 @@
 - [x] [**B and B+ Tree**]
 - [x] [**Code Snippet Recommender**]
 - [x] [**Big Int Library**]
-- [x] [**Content Aware Image Editing (Seam Carving)**]
-
+- [x] [**Content Aware Image Editing (Seam Carving)**](https://github.com/yash-singhal-wd/Seam-Carving)
+- 🔭 I’m currently working on [efe](https://github.com/yash-singhal-wd/Seam-Carving)
 ### 🌱 Mini Projects completed:
 - [x] [**Covid-19 stats using MERN Stack**]
 - [x] [**Inventory Manangement System using MERN and Redux**]
