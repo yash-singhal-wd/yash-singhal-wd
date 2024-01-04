@@ -11,7 +11,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yash_singhal_?theme=dark&font=Convergence&ext=heatmap)
 
 ### Major Projects completed:
-- [x] [**P2P File Sharing System**]
+- [x] [**P2P File Sharing System**](https://github.com/yash-singhal-wd/P2P_file)
 - [x] [**Relational Query Processing Engine**]
 - [x] [**Linux Based File Explorer**]
 - [x] [**B and B+ Tree**]
