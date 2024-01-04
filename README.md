@@ -10,7 +10,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yash_singhal_?theme=dark&font=Convergence&ext=heatmap)
 
-### 🌱 Major Projects completed:
+### Major Projects completed:
 - [x] [**P2P File Sharing System**]
 - [x] [**Relational Query Processing Engine**]
 - [x] [**Linux Based File Explorer**]
@@ -18,8 +18,8 @@
 - [x] [**Code Snippet Recommender**]
 - [x] [**Big Int Library**]
 - [x] [**Content Aware Image Editing (Seam Carving)**](https://github.com/yash-singhal-wd/Seam-Carving)
-- 🔭 I’m currently working on [efe](https://github.com/yash-singhal-wd/Seam-Carving)
-### 🌱 Mini Projects completed:
+
+### Mini Projects completed:
 - [x] [**Covid-19 stats using MERN Stack**]
 - [x] [**Inventory Manangement System using MERN and Redux**]
 - [x] [**Password Generator with Difficulty Modes**]
@@ -31,6 +31,4 @@
 - [x] [**Implemented Decision Tree from Scratch**]
 
 <h3 align="left">Connect with me:</h3>
-
-<!-- https://www.linkedin.com/in/vaibhav-saxena-96611210b/ -->
 <!-- https://leetcode.com/yash_singhal_/ -->
