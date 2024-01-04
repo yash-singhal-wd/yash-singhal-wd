@@ -20,7 +20,7 @@
 - [x] [**Content Aware Image Editing (Seam Carving)**](https://github.com/yash-singhal-wd/Seam-Carving)
 
 ### Mini Projects completed:
-- [x] [**Covid-19 stats using MERN Stack**]
+- [x] [**Covid-19 stats using MERN Stack**](https://github.com/yash-singhal-wd/Covid-19-stats)
 - [x] [**Inventory Manangement System using MERN and Redux**]
 - [x] [**Password Generator with Difficulty Modes**]
 - [x] [**Crow and Vulture Board Game**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
