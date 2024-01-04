@@ -17,11 +17,12 @@
 - [x] [**B and B+ Tree**]
 - [x] [**Code Snippet Recommender**]
 - [x] [**Big Int Library**]
+- [x] [**Content Aware Image Editing (Seam Carving)**]
 
 ### 🌱 Mini Projects completed:
 - [x] [**Covid-19 stats using MERN Stack**]
 - [x] [**Inventory Manangement System using MERN and Redux**]
-- [x] [**Password **]
+- [x] [**Password Generator with Difficulty Modes**]
 
 ### 🤖 AI Projects:
 - [x] [**Implemented KNN from Scratch**]
