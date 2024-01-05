@@ -24,6 +24,7 @@
 - [x] [**Covid-19 stats using React.js**](https://github.com/yash-singhal-wd/Covid-19-stats)
 - [x] [**A dynamic but simple news website**](https://github.com/yash-singhal-wd/Dynamic_news_website)
 - [x] [**Crow and Vulture Board Game (HTML CSS and JS)**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
+- [x] [**Password generator using MERN stack**] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
