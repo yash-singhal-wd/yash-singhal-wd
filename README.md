@@ -25,11 +25,5 @@
 - [x] [**Password Generator with Difficulty Modes**]
 - [x] [**Crow and Vulture Board Game (HTML CSS and JS)**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
 
-### 🤖 AI Projects:
-- [x] [**Implemented KNN from Scratch**]
-- [x] [**Implemented K-Means from Scratch**]
-- [x] [**Implemented Naive Bayes from Scratch**]
-- [x] [**Implemented Decision Tree from Scratch**]
-
 <h3 align="left">Connect with me:</h3>
 <!-- https://leetcode.com/yash_singhal_/ -->
