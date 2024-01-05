@@ -14,7 +14,7 @@
 - [x] [**P2P File Sharing System**](https://github.com/yash-singhal-wd/P2P_file)
 - [x] [**Relational Query Processing Engine**](https://github.com/yash-singhal-wd/Query-processing_engine)
 - [x] [**Linux Based File Explorer**](https://github.com/yash-singhal-wd/Linux-Based-File-Explorer)
-- [x] [**B and B+ Tree**]
+- [x] [**B and B+ Tree**](https://github.com/yash-singhal-wd/DBMS_Index_Implementation)
 - [x] [**Code Snippet Recommender**]
 - [x] [**Big Int Library**]
 - [x] [**Content Aware Image Editing (Seam Carving)**](https://github.com/yash-singhal-wd/Seam-Carving)
