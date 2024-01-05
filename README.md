@@ -13,17 +13,17 @@
 ### Major Projects completed:
 - [x] [**P2P File Sharing System**](https://github.com/yash-singhal-wd/P2P_file)
 - [x] [**Relational Query Processing Engine**](https://github.com/yash-singhal-wd/Query-processing_engine)
-- [x] [**Inventory Manangement System using MERN and Redux**]
+- [x] [**Inventory Manangement System using React and Redux**]
 - [x] [**Linux Based File Explorer**](https://github.com/yash-singhal-wd/Linux-Based-File-Explorer)
 - [x] [**B and B+ Tree**](https://github.com/yash-singhal-wd/DBMS_Index_Implementation)
 - [x] [**Big Int Library**]
 - [x] [**Content Aware Image Editing (Seam Carving)**](https://github.com/yash-singhal-wd/Seam-Carving)
-- [x] [**Virtual Assistant**](https://github.com/yash-singhal-wd/6_Virtual_Assistant)
+- [x] [**Virtual Assistant (using React and OAuth)**](https://github.com/yash-singhal-wd/6_Virtual_Assistant)
 
 ### Mini Projects completed:
 - [x] [**Covid-19 stats using MERN Stack**](https://github.com/yash-singhal-wd/Covid-19-stats)
 - [x] [**Password Generator with Difficulty Modes**]
-- [x] [**Crow and Vulture Board Game**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
+- [x] [**Crow and Vulture Board Game (HTML CSS and JS)**](https://github.com/yash-singhal-wd/Kaooa-Board-game-)
 
 ### 🤖 AI Projects:
 - [x] [**Implemented KNN from Scratch**]
